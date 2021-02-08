@@ -17,6 +17,8 @@ React Native version requirements: >=0.46.
 
 ## Installation
 
+> This forked version of the package needs **react-native-image-progress** install it [here](https://github.com/oblador/react-native-image-progress)
+
 `yarn add react-native-auto-height-image`
 
 `npm install react-native-auto-height-image`
